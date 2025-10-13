@@ -37,7 +37,7 @@ Asegúrate de tener instalado **Git** y **Node.js**
 
   Bash
   
-  _git clone https://github.com/Serdata25/Calculadora_Ts.git
+  _git clone https://github.com/Serdata25/Calculadora_Ts.git_
 
 **2. Navega al directorio del proyecto**
 
