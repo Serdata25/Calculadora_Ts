@@ -5,47 +5,57 @@ Aesthetic Calc es una calculadora moderna y visualmente atractiva diseñada para
 # Características Principales 🧮
 Esta calculadora incluye una variedad de funciones organizadas por categorías para un acceso rápido y eficiente:
 
-Operaciones Básicas: 
+**Operaciones Básicas**
 Suma (+), resta (−), multiplicación (×), división (÷), porcentaje (%), cambio de signo (+/−).
 
-Funciones Unarias: 
+**Funciones Unarias**
 Inverso (1/x), cuadrado (x2), cubo (x3).
 
-Operaciones Rápidas: 
+**Operaciones Rápidas**
 Raíz cuadrada (√x), Factorial (n!), Porcentaje (%).
 
-Ecuaciones: 
+**Ecuaciones**
 Ecuaciones de 1º grado. Ecuaciones de 2º grado. Ecuaciones de 3º grado.
 
-Funciones Trigonométricas Inversas (Trig. Inversas): 
+**Funciones Trigonométricas Inversas (Trig. Inversas)**
 Arcoseno (arcsin(x)). Arcocoseno (arccos(x)). Arcotangente (arctan(x))
 
-Logaritmo Natural (Log Natural): 
+**Logaritmo Natural (Log Natural)**
 ln(x)
 
-Permutación y Combinación (P & C): 
+**Permutación y Combinación (P & C)**
 Permutación (P(n,r)). Combinación (C(n,r))
 
 # Diseño 🖼️
 El diseño de Aesthetic Calc se enfoca en la legibilidad y la estética moderna, utilizando una paleta de colores pastel para categorizar y resaltar las funciones.
 
 # Instalación y Uso 🚀
+**Prerrequisitos**
+Asegúrate de tener instalado **Git** y **Node.js**
 
  **1. Clona el repositorio** (GUÍA: https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
- 
-  git clone
+
+  Bash
+  _git clone https://github.com/Serdata25/Calculadora_Ts_
 
 **2. Navega al directorio del proyecto**
- 
-  cd Calculadora_Ts
+
+  Bash
+  _cd Calculadora_Ts_
 
  **3. Instala las dependencias** (GUÍA: https://www.luisllamas.es/como-instalar-dependencias-con-npm/)
- 
-  npm install
+
+  Bash
+  _npm install_
 
  **4. Ejecuta la aplicación**
- 
-  npm start
+
+  Bash
+  _npm start_
+
+ **_La aplicación debería abrirse automáticamente en tu navegador._**
+
+
 
 # Contribuciones 🤝
 Las contribuciones son bienvenidas. Si tienes sugerencias de nuevas funciones, mejoras de diseño o encuentras algún error (bug), por favor, abre un issue o envía un pull request.
