@@ -36,21 +36,25 @@ Asegúrate de tener instalado **Git** y **Node.js**
  **1. Clona el repositorio** (GUÍA: https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
 
   Bash
-  _git clone https://github.com/Serdata25/Calculadora_Ts_
+  
+  _git clone https://github.com/Serdata25/Calculadora_Ts.git
 
 **2. Navega al directorio del proyecto**
 
   Bash
+  
   _cd Calculadora_Ts_
 
  **3. Instala las dependencias** (GUÍA: https://www.luisllamas.es/como-instalar-dependencias-con-npm/)
 
   Bash
+  
   _npm install_
 
  **4. Ejecuta la aplicación**
 
   Bash
+  
   _npm start_
 
  **_La aplicación debería abrirse automáticamente en tu navegador._**
