@@ -29,7 +29,7 @@ Permutación (P(n,r)). Combinación (C(n,r))
 # Diseño 🖼️
 El diseño de Aesthetic Calc se enfoca en la legibilidad y la estética moderna, utilizando una paleta de colores pastel para categorizar y resaltar las funciones.
 
- Instalación y Uso 🚀
+# Instalación y Uso 🚀
 
  Clona el repositorio
   git clone https://www.youtube.com/watch?v=dnxdIzF8p3k
