@@ -31,19 +31,19 @@ El diseño de Aesthetic Calc se enfoca en la legibilidad y la estética moderna,
 
 # Instalación y Uso 🚀
 
- Clona el repositorio
+ **1. Clona el repositorio** (GUÍA: https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
  
   git clone
 
- Navega al directorio del proyecto
+**2. Navega al directorio del proyecto**
  
   cd Calculadora_Ts
 
- Instala las dependencias 
+ **3. Instala las dependencias** (GUÍA: https://www.luisllamas.es/como-instalar-dependencias-con-npm/)
  
   npm install
 
- Ejecuta la aplicación
+ **4. Ejecuta la aplicación**
  
   npm start
 
