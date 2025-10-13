@@ -30,7 +30,7 @@ Bash
 git clone https://www.youtube.com/watch?v=dnxdIzF8p3k
 
 # Navega al directorio del proyecto
-cd calculadora
+cd Calculadora_Ts
 
 # Instala las dependencias 
 npm install
