@@ -29,18 +29,18 @@ Permutación (P(n,r)). Combinación (C(n,r))
 # Diseño 🖼️
 El diseño de Aesthetic Calc se enfoca en la legibilidad y la estética moderna, utilizando una paleta de colores pastel para categorizar y resaltar las funciones.
 
-# Instalación y Uso 🚀
+ Instalación y Uso 🚀
 
-  # Clona el repositorio
+ Clona el repositorio
   git clone https://www.youtube.com/watch?v=dnxdIzF8p3k
 
-  # Navega al directorio del proyecto
+ Navega al directorio del proyecto
   cd Calculadora_Ts
 
-  # Instala las dependencias 
+ Instala las dependencias 
   npm install
 
-  # Ejecuta la aplicación
+ Ejecuta la aplicación
   npm start
 
 # Contribuciones 🤝
