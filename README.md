@@ -1,8 +1,8 @@
-# Aesthetic Calc
+# Aesthetic Calc 📐✨
 
 Aesthetic Calc es una calculadora moderna y visualmente atractiva diseñada para manejar una amplia gama de operaciones matemáticas, desde aritmética básica hasta funciones avanzadas como ecuaciones, logaritmos y funciones trigonométricas inversas.
 
-# Características Principales
+# Características Principales 🧮
 Esta calculadora incluye una variedad de funciones organizadas por categorías para un acceso rápido y eficiente:
 
 Operaciones Básicas: 
@@ -26,10 +26,10 @@ ln(x)
 Permutación y Combinación (P & C): 
 Permutación (P(n,r)). Combinación (C(n,r))
 
-# Diseño 
+# Diseño 🖼️
 El diseño de Aesthetic Calc se enfoca en la legibilidad y la estética moderna, utilizando una paleta de colores pastel para categorizar y resaltar las funciones.
 
-# Instalación y Uso
+# Instalación y Uso 🚀
 
   # Clona el repositorio
   git clone https://www.youtube.com/watch?v=dnxdIzF8p3k
