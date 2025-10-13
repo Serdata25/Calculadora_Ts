@@ -33,7 +33,7 @@ El diseño de Aesthetic Calc se enfoca en la legibilidad y la estética moderna,
 
  Clona el repositorio
  
-  git clone https://www.youtube.com/watch?v=dnxdIzF8p3k
+  git clone
 
  Navega al directorio del proyecto
  
